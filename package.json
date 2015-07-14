@@ -1,0 +1,27 @@
+{
+  "name": "peer-test",
+  "version": "1.0.0",
+  "description": "Peer-test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupamroy/peer-test.git"
+  },
+  "keywords": [
+    "peer",
+    "communication",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupamroy/peer-test/issues"
+  },
+  "homepage": "https://github.com/rupamroy/peer-test#readme",
+  "dependencies": {
+    "smokesignal": "^0.2.1"
+  }
+}
